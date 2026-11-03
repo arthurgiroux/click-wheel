@@ -1,0 +1,9 @@
+click-wheel
+Copyright (C) the contributors. Licensed under GPL-3.0-or-later.
+
+Third-party work
+----------------
+foo_dop (musicmusic, 2006-2015) and libgpod (LGPL-2.1-or-later):
+file format logic is ported where a source file header says so.
+
+Format documentation: ipodlinux.org iTunesDB and iTunesSD pages.
