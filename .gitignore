@@ -1,0 +1,4 @@
+/target
+/fixtures/private/*
+!/fixtures/private/.gitignore
+.DS_Store
